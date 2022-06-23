@@ -7,4 +7,5 @@
         "NODE_ENV": "test",
         "TS_NODE_PROJECT": "tsconfig.test.json"
     },
+    "nuxt.isNuxtApp": false,
 }
